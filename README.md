@@ -94,7 +94,8 @@ Sou o Miguel Pires, tenho 21 anos e atualmente estou a licenciar-me em Engenhari
 />
           
           
- <br>         
+ <br>
+ 
 **Projetos**
 
 - Desenvolvimento de aplicações móveis Android com interfaces modernas e funcionais.  
