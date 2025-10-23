@@ -4,6 +4,7 @@
 
 Sou o Miguel Pires, tenho 21 anos e atualmente estou a licenciar-me em Engenharia de Sistemas Informáticos no [IPCA](https://ipca.pt). Estou à procura de um estágio curricular para demonstrar as minhas capacidades e contribuir para o sucesso da empresa.
 
+<br>
 
 **Tecnologias & Linguagens** (Utilizadas ao longo dos anos)
 <br>
@@ -98,11 +99,13 @@ Sou o Miguel Pires, tenho 21 anos e atualmente estou a licenciar-me em Engenhari
  
 **Projetos**
 
-- Desenvolvimento de aplicações móveis Android com interfaces modernas e funcionais.  
+- Programação em C# para desenvolvimento de aplicações orientadas a objetos.
+- Programação em C++ com foco em estruturas de dados, otimização de desempenho e aplicações de nível académico.
+- Programação em Python com utilização do Jupyter Notebook no desenvolvimento de projetos de Inteligência Artificial
 - Implementação de workflows de processamento de dados com KNIME para análises académicas.  
 - Criação de websites responsivos usando Next.js e Tailwind CSS.  
- <br>
 
+<br>
 
 ## Contactos
 📧 Email: zemiguel.pires@hotmail.com 
