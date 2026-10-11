@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Miguel Pires
+# Miguel Pires
 
 **`Software Developer`**
 
@@ -6,7 +6,7 @@ Sou o Miguel Pires, tenho 21 anos e atualmente estou a licenciar-me em Engenhari
 
 <br>
 
-**Tecnologias & Linguagens** (Utilizadas ao longo dos anos)
+**Tecnologias & Linguagens**
 <br>
 
 <img
@@ -93,17 +93,26 @@ Sou o Miguel Pires, tenho 21 anos e atualmente estou a licenciar-me em Engenhari
     style ="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
 />
+
+<img 
+    alt ="Logo"
+    title ="Kotlin"
+    width ="30px"
+    style ="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
           
           
  <br>
  
 **Projetos**
 
-- Programação em C# para desenvolvimento de aplicações orientadas a objetos.
+- Programação em C#, desenvolvimento de aplicações em contexto académico.
 - Programação em C++ com foco em estruturas de dados, otimização de desempenho e aplicações de nível académico.
 - Programação em Python com utilização do Jupyter Notebook no desenvolvimento de projetos de Inteligência Artificial
 - Implementação de workflows de processamento de dados com KNIME para análises académicas.  
-- Criação de websites responsivos usando Next.js e Tailwind CSS.  
+- Programação em Java para desenvolvimento de aplicações orientadas a objetos.  
 
 <br>
 
